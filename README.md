@@ -11,28 +11,18 @@ I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm de
 
 ### 🛠️ Skills
 - **Programming Languages:**
-  - Python
-  - C
-  - HTML, PHP, CSS, JavaScript (for web projects and web-based attacks)
+  - Python, C
+  - HTML, PHP, CSS, JavaScript
 
 - **Cybersecurity Competencies:**
   - Offensive Security
   - Ethical Hacking
   - Penetration Testing
-  - Network Security
-
-- **Tools and Technologies:**
-  - ELK Stack
-  - Metasploit
-  - Wireshark
-  - Nmap
-  - Burp Suite
 
 - **Additional Skills:**
   - Networking
   - Scripting and Automation
   - Vulnerability Assessment
-  - Cryptography
 
 ### 🌐 Projects
 - [**PoC Ransomware**](https://github.com/phantom0004/_KRYPT0S_RANSOMWARE): Proof of Concept ransomware showcasing encryption techniques.
