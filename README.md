@@ -1,5 +1,4 @@
-## Hi there! 👋 Welcome to my GitHub profile!
-
+## Welcome to the Cyberdome! 👋 Explore my journey in cybersecurity.
 ![Coding GIF](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)
 
 I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm deeply immersed in the world of cybersecurity, with a particular fascination for ethical hacking and offensive security. My journey in this field has been driven by a relentless curiosity and a passion for understanding and countering the myriad of threats that exist in the digital landscape.
