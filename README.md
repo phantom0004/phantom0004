@@ -1,5 +1,7 @@
 ## Hi there! 👋 Welcome to my GitHub profile!
 
+![image](https://github.com/phantom0004/phantom0004/assets/42916447/a6886c9b-c48e-481f-a3a3-8751da574c47)
+
 I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm deeply immersed in the world of cybersecurity, with a particular fascination for ethical hacking and offensive security. My journey in this field has been driven by a relentless curiosity and a passion for understanding and countering the myriad of threats that exist in the digital landscape.
 
 ### 🌱 About Me
