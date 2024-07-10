@@ -25,16 +25,16 @@ I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm de
   - Scripting and Automation
   - Vulnerability Assessment
 
+### 🙋 Resources about me
+**Github and Linkedn** Check out my [GitHub repositories](https://github.com/phantom0004) for additional projects or view my [Linktree](https://linktr.ee/darylgatt_cybersecurity) for more of my work!
+**Github Development Discussion** Check out my main discussions tab to see the current development updates on new projects [here](https://github.com/phantom0004/phantom0004/discussions/1).
+
 ### 🌐 Projects
 - [**PoC Ransomware**](https://github.com/phantom0004/_KRYPT0S_RANSOMWARE): Proof of Concept ransomware showcasing encryption techniques.
 - [**ELK Stack Educational Resource**](https://github.com/phantom0004/elk-stack-tools): A repository with tools and resources for learning and deploying the ELK stack.
 - [**Web Scraper and Web Directory Fuzzer**](https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool): A tool for scraping websites and fuzzing web directories to find hidden paths.
 - [**Pen Test Tools**](https://github.com/phantom0004/PenTest_Vault): A collection of penetration testing tools written in Python and C.
 - [**Sneaker Website**](https://github.com/phantom0004/Sneakerology): A website dedicated to sneaker enthusiasts, featuring the latest sneaker news and releases.
-
-**And more!** Check out my [GitHub repositories](https://github.com/phantom0004) for additional projects or view my [Linktree](https://linktr.ee/darylgatt_cybersecurity) for more of my work!
-
-**In a rush?** Check out my main discussions tab to see the current development updates on new projects [here](https://github.com/yourusername/yourrepo/discussions/1).
 
 ### 📚 Online Learning
 I am currently engaged in several advanced coding and cybersecurity courses, including Google and Cisco certifications, as well as Udemy certifications. Additionally, I enhance my learning by watching various YouTube playlists related to cybersecurity, such as those done by IBM. I also continually stay informed by subscribing to alerts on the latest threats and trends in cybersecurity.
