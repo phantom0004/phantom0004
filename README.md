@@ -26,9 +26,9 @@ I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm de
   - Vulnerability Assessment
 
 ### 🙋 Resources about me
-**Github and Linktree** Check out my [GitHub repositories](https://github.com/phantom0004) for additional projects or view my [Linktree](https://linktr.ee/darylgatt_cybersecurity) for more of my work!
+**Github and Linktree:** Check out my [GitHub repositories](https://github.com/phantom0004) for additional projects or view my [Linktree](https://linktr.ee/darylgatt_cybersecurity) for more of my work!
 
-**Github Development Discussion** Check out my main discussions tab to see the current development updates on new projects [here](https://github.com/phantom0004/phantom0004/discussions/1).
+**Github Development Discussion:** Check out my main discussions tab to see the current development updates on new projects [here](https://github.com/phantom0004/phantom0004/discussions/1).
 
 ### 🌐 Projects
 - [**PoC Ransomware**](https://github.com/phantom0004/_KRYPT0S_RANSOMWARE): Proof of Concept ransomware showcasing encryption techniques.
