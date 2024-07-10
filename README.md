@@ -33,6 +33,7 @@ I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm de
 - [**Sneaker Website**](https://github.com/phantom0004/Sneakerology): A website dedicated to sneaker enthusiasts, featuring the latest sneaker news and releases.
 
 **And more!** Check out my [GitHub repositories](https://github.com/phantom0004) for additional projects or view my [Linktree](https://linktr.ee/darylgatt_cybersecurity) for more of my work!
+
 **In a rush?** Check out my main discussions tab to see the current development updates on new projects [here](https://github.com/yourusername/yourrepo/discussions/1).
 
 ### 📚 Online Learning
