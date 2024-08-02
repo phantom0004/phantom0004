@@ -1,7 +1,7 @@
-# 👋 Explore my journey in cybersecurity.
+# Get to Know Me: My Cybersecurity Journey 🚀
 ![Coding GIF](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)
 
-I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm deeply immersed in the world of cybersecurity, with a particular fascination for ethical hacking and offensive security. My journey in this field has been driven by a relentless curiosity and a passion for understanding and countering the myriad of threats that exist in the digital landscape.
+I’m Daryl Gatt, a third-year BSc Cybersecurity student with a strong focus on ethical hacking and offensive security. My journey in cybersecurity is driven by an insatiable curiosity and a commitment to understanding and countering the evolving threats in the digital world. I’m deeply immersed in exploring innovative solutions and techniques to safeguard against cyber risks. 🔍
 
 ## 🌱 About Me
 Aspiring Professional: Future tech industry leader with a focus on ethical hacking and penetration testing.
