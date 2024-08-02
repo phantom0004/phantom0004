@@ -1,49 +1,29 @@
-## Welcome to the Cyberdome! 👋 Explore my journey in cybersecurity.
+👋 Explore my journey in cybersecurity.
 ![Coding GIF](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)
 
 I'm **Daryl Gatt**, a third-year BSc Cybersecurity student at university. I'm deeply immersed in the world of cybersecurity, with a particular fascination for ethical hacking and offensive security. My journey in this field has been driven by a relentless curiosity and a passion for understanding and countering the myriad of threats that exist in the digital landscape.
 
-### 🌱 About Me
-- 🔍 **Aspiring Cybersecurity Professional:** I am passionate about safeguarding the digital frontier and aspire to work with renowned tech brands in the future.
-- 🛡️ **Focus Areas:** My interests lie in the offensive aspects of cybersecurity, particularly ethical hacking and penetration testing.
-- 💻 **Programming Proficiency:** I am proficient in Python and am actively enhancing my skills in C to apply them effectively in cybersecurity.
-- 📚 **Continuous Learner:** I am always expanding my knowledge by taking online courses on platforms like Udemy, focusing on advanced coding and cybersecurity topics.
-- 🧩 **Flexible Skillset:** I am adaptable and proficient in various types of skills, including the use of different operating systems (Windows & Linux) and more technologies.
+## 🌱 About Me
+Aspiring Professional: Future tech industry leader with a focus on ethical hacking and penetration testing.
+Skills: Python and C are my main programming languages. Proficient in HTML, PHP, CSS, and JavaScript, as well as other backend languages.
+Continuous Learner: Engaging in advanced courses and staying updated with cybersecurity trends.
 
-### 🛠️ Skills
-- **Programming Languages:**
-  - Python, C
-  - HTML, PHP, CSS, JavaScript
+## 🛠️ Skills
+Programming: Python, C, Web Development
+Cybersecurity: Offensive Security, Ethical Hacking, Penetration Testing
+Additional: Networking, Scripting, Vulnerability Assessment, Cyber Defence
 
-- **Cybersecurity Competencies:**
-  - Offensive Security
-  - Ethical Hacking
-  - Penetration Testing
+## 🌐 Projects
+PoC Ransomware: Ransomware PoC showcasing encryption techniques. -> [Link to repo](https://github.com/phantom0004/_KRYPT0S_RANSOMWARE)
+ELK Stack Resources: Tools and resources for ELK stack. -> [Link to repo](https://github.com/phantom0004/elk-stack-tools)
+Web Scraper & Fuzzer: Scrapes websites and finds hidden paths. -> [Link to repo](https://github.com/phantom0004/elk-stack-tools)
+Pen Test Tools: Collection of penetration testing tools. -> [Link to repo](https://github.com/phantom0004/PenTest_Vault)
+Sneaker Website: Sneaker news and releases. -> [Link to repo](https://github.com/phantom0004/Sneakerology)
+_Remote Access Trojan: Upcoming RAT for Windows and Linux. (Check the [development page](https://github.com/phantom0004/th3executor-PREVIEW-UNDERDEVELOPMENT) for updates.)_
+_MITM Toolkit: Upcoming man-in-the-middle attack program._
 
-- **Additional Skills:**
-  - Networking
-  - Scripting and Automation
-  - Vulnerability Assessment
-  - Cyber Defence
+## 📚 Learning
+Currently taking advanced coding and cybersecurity courses. I stay updated with Google, Cisco, and Udemy certifications, and I follow the latest trends and threats in cybersecurity.
 
-### 🙋 Resources about me
-**Github and Linktree:** Check out my [GitHub repositories](https://github.com/phantom0004) for additional projects or view my [Linktree](https://linktr.ee/darylgatt_cybersecurity) for more of my work!
-
-**Github Development Discussion:** Check out my main discussions tab to see the current development updates on new projects [here](https://github.com/phantom0004/phantom0004/discussions/1).
-
-### 🌐 Projects
-- [**PoC Ransomware**](https://github.com/phantom0004/_KRYPT0S_RANSOMWARE): Proof of Concept ransomware showcasing encryption techniques.
-- [**ELK Stack Educational Resource**](https://github.com/phantom0004/elk-stack-tools): A repository with tools and resources for learning and deploying the ELK stack.
-- [**Web Scraper and Web Directory Fuzzer**](https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool): A tool for scraping websites and fuzzing web directories to find hidden paths.
-- [**Pen Test Tools**](https://github.com/phantom0004/PenTest_Vault): A collection of penetration testing tools written in Python and C.
-- [**Sneaker Website**](https://github.com/phantom0004/Sneakerology): A website dedicated to sneaker enthusiasts, featuring the latest sneaker news and releases.
-- **Remote Access Trojan**: An upcoming sophisticated RAT for Windows and Linux machines. (Check the [development page](https://github.com/phantom0004/th3executor-PREVIEW-UNDERDEVELOPMENT) to see updates of it!)
-
-### 📚 Online Learning
-I am currently engaged in several advanced coding and cybersecurity courses, including Google and Cisco certifications, as well as Udemy certifications. Additionally, I enhance my learning by watching various YouTube playlists related to cybersecurity, such as those done by IBM. I also continually stay informed by subscribing to alerts on the latest threats and trends in cybersecurity.
-
-### 📫 How to reach me:
-You can contact me and find more information about my work and projects on [LinkedIn](https://www.linkedin.com/in/daryl-gatt-web3/).
-
-### ⚡ Fun fact:
-When I'm not immersed in cybersecurity projects, you can often find me honing my skills in capture the flag (CTF) competitions. I love the thrill of solving complex challenges and securing those elusive flags—it's like a digital treasure hunt!
+## 📫 Connect with Me
+Find more about my work on [LinkedIn](https://www.linkedin.com/in/daryl-gatt-web3/).
