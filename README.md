@@ -15,11 +15,17 @@ Additional: Networking, Scripting, Vulnerability Assessment, Cyber Defence
 
 ## 🌐 Projects
 PoC Ransomware: Ransomware PoC showcasing encryption techniques. -> [Link to repo](https://github.com/phantom0004/_KRYPT0S_RANSOMWARE)
+
 ELK Stack Resources: Tools and resources for ELK stack. -> [Link to repo](https://github.com/phantom0004/elk-stack-tools)
+
 Web Scraper & Fuzzer: Scrapes websites and finds hidden paths. -> [Link to repo](https://github.com/phantom0004/elk-stack-tools)
+
 Pen Test Tools: Collection of penetration testing tools. -> [Link to repo](https://github.com/phantom0004/PenTest_Vault)
+
 Sneaker Website: Sneaker news and releases. -> [Link to repo](https://github.com/phantom0004/Sneakerology)
+
 _Remote Access Trojan: Upcoming RAT for Windows and Linux. (Check the [development page](https://github.com/phantom0004/th3executor-PREVIEW-UNDERDEVELOPMENT) for updates.)_
+
 _MITM Toolkit: Upcoming man-in-the-middle attack program._
 
 ## 📚 Learning
