@@ -30,6 +30,3 @@ _MITM Toolkit: Upcoming man-in-the-middle attack program._
 
 ## 📚 Learning
 Currently taking advanced coding and cybersecurity courses. I stay updated with Google, Cisco, and Udemy certifications, and I follow the latest trends and threats in cybersecurity.
-
-## 📫 Connect with Me
-Find more about my work on [LinkedIn](https://www.linkedin.com/in/daryl-gatt-web3/).
