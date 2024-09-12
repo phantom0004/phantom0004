@@ -44,7 +44,7 @@
 
 <br>
 
-## <picture> <img src="https://img.icons8.com/ios-filled/50/4a90e2/project-management.png" width=40> </picture> Featured Projects
+## 🚀 Featured Projects
 <table align="center">
   <tr>
     <th>Project</th>
