@@ -55,6 +55,10 @@
     <td><b>Ransomware PoC</b> - Demonstrates ransomware encryption techniques.</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/phantom0004/morpheus_IOC_scanner"><img src="https://img.icons8.com/ios-filled/50/4a90e2/binoculars.png" alt="Malware and IOC Analyser"/></a></td>
+    <td><b>Morpheus Scanner</b>- Performs file scanning to detect malware and gather IOC information.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/phantom0004/elk-stack-tools"><img src="https://img.icons8.com/ios-filled/50/4a90e2/server.png" alt="ELK Stack"/></a></td>
     <td><b>ELK Stack Guide</b> - Resources and tools for setting up the ELK stack.</td>
   </tr>
