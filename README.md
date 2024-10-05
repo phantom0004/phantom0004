@@ -66,10 +66,6 @@
     <td><a href="https://github.com/phantom0004/PenTest_Vault"><img src="https://img.icons8.com/ios-filled/50/4a90e2/hacker.png" alt="Penetration Testing Tools"/></a></td>
     <td><b>PenTest Vault</b> - A collection of penetration testing tools.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/phantom0004/th3executor-PREVIEW-UNDERDEVELOPMENT"><img src="https://img.icons8.com/ios-filled/50/4a90e2/computer.png" alt="Remote Access Trojan" width=50px/></a></td>
-    <td><b>RAT Preview</b> - A preview of a Remote Access Trojan in development.</td>
-  </tr>
 </table>
 
 ## 🌐 Connect with me
