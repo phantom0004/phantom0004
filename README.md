@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phantom0004&show_icons=true&locale=en" alt="GitHub Stats" width="450" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom0004&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="450" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantom0004&theme=tokyonight" alt="GitHub Streak Stats" width="450" height="200"/>
 </p>
 </p>
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
