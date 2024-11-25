@@ -84,7 +84,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://img.icons8.com/?size=100&id=MSywwgB0nzMc&format=png&color=000000" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://img.icons8.com/?size=100&id=MSywwgB0nzMc&format=png&color=000000" width = 50px>  </picture> Main Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -96,24 +96,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white" width=70px>
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" width=70px>
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" width=55px>
-  </a> 
-  &emsp;
-  <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" width=85px>
-  </a>
-  &emsp;
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white" width=50px>
-  </a>
-  &emsp;
-  <a href="https://yara.readthedocs.io/" target="_blank">
-    <img alt="YARA" src="https://img.shields.io/badge/YARA%20-%23224F9D.svg?style=plastic&logo=linux&logoColor=white" width=60px>
   </a>
   &emsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank">
@@ -134,10 +118,6 @@
     <a href="#"><img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability%20Assessment-000000?style=plastic&logo=vuln-assess&logoColor=white" width=110px></a>
   &emsp;
     <a href="#"><img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-%232E8B57.svg?style=plastic&logo=search&logoColor=white" width=85px></a>
-  &emsp;
-    <a href="#"><img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse%20Engineering-%23007396.svg?style=plastic&logo=reverse&logoColor=white" width=120px></a>
-  &emsp;
-    <a href="#"><img alt="Exploit Creation" src="https://img.shields.io/badge/Exploit%20Creation-%23D2691E.svg?style=plastic&logo=exploit&logoColor=white" width=100px></a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -163,14 +143,6 @@
 
 ---
 
-## 💻 Random Quote of the Day
-<p align="center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes">
-	    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=security">
-	</a>
-</p>
-
----
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 **Pro Tip!** Don’t forget to check out the "Discussions" section in my projects. Stay up to date with my latest developer insights, and feel free to share your suggestions for future enhancements! Your feedback is always appreciated and helps make the project even better. 😊
