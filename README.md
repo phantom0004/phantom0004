@@ -22,6 +22,7 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📊 GitHub Profile Stats
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phantom0004&show_icons=true&locale=en" alt="GitHub Stats" width="450" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom0004&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="450" height="200"/>
@@ -29,45 +30,66 @@
 </p>
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 👨‍💻 About Me
+<br>
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 300px></picture>
+## 👨‍💻 About Me
+<br>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 320px height = 220px></picture>
 
 - 🎓 Third-year BSc Cybersecurity student.
 - 🎯 Specializing in `Ethical Hacking` and `Offensive Security`.
 - 🛡️ Passionate about using cutting-edge techniques to secure systems.
-- 💻 Skilled in `Python`, `C`, `HTML`, `PHP`, `CSS`, `JavaScript`, and offensive scripting.
-- 🚀 Expanding expertise in `Penetration Testing` and advanced cybersecurity strategies.
+- 💻 Cybersecurity Developer, knowledgeable in mostly backend languages.
 - 📚 Constantly evolving and eager to learn.
 - 💼 Open to opportunities in offensive security and penetration testing.
 
 <br>
 
+## ❤️ Support Me
+<br>
+<p align="center">
+  This helps me create open-source projects and build more for the public to see and use. 💻☕
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/secopswizard" target="_blank"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
+</p>
+
+<br>
+
 ## 🚀 Featured Projects
+<br>
 <table align="center">
   <tr>
     <th>Project</th>
     <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/phantom0004/_KRYPT0S_RANSOMWARE"><img src="https://img.icons8.com/ios-filled/50/4a90e2/lock.png" alt="Ransomware PoC"/></a></td>
-    <td><b>Ransomware PoC</b> - Demonstrates ransomware encryption techniques.</td>
+    <th>Popularity Count</th>
   </tr>
   <tr>
     <td><a href="https://github.com/phantom0004/morpheus_IOC_scanner"><img src="https://img.icons8.com/ios-filled/50/4a90e2/binoculars.png" alt="Malware and IOC Analyser"/></a></td>
     <td><b>Morpheus Scanner</b>- Performs file scanning to detect malware and gather IOC information.</td>
+    <td align="center">⭐ Highly Popular Project ⭐</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/phantom0004/elk-stack-tools"><img src="https://img.icons8.com/ios-filled/50/4a90e2/server.png" alt="ELK Stack"/></a></td>
-    <td><b>ELK Stack Guide</b> - Resources and tools for setting up the ELK stack.</td>
+    <td><a href="https://github.com/phantom0004/_KRYPT0S_RANSOMWARE"><img src="https://img.icons8.com/ios-filled/50/4a90e2/lock.png" alt="Ransomware PoC"/></a></td>
+    <td><b>Ransomware PoC</b> - Demonstrates ransomware encryption techniques.</td>
+    <td align="center">📈 Trending Project 📈</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool"><img src="https://img.icons8.com/?size=100&id=59878&format=png&color=228BE6" style="width: 50px; height: 50px;"> </a></td>
+    <td><b>FuzzFindr</b> - A directory fuzzer and web scraper.</td>
+    <td align="center">🚀 Somwhat Popular 🚀</td>
   </tr>
   <tr>
     <td><a href="https://github.com/phantom0004/PenTest_Vault"><img src="https://img.icons8.com/ios-filled/50/4a90e2/hacker.png" alt="Penetration Testing Tools"/></a></td>
     <td><b>PenTest Vault</b> - A collection of penetration testing tools.</td>
+    <td align="center">⬇️ Low Popularity ⬇️</td>
   </tr>
 </table>
 
+<br>
+
 ## 🌐 Connect with me
+<br>
 <p align="center">
   <a href="https://github.com/phantom0004">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="40" height="40"/>
@@ -82,7 +104,10 @@
   </a>
 </p>
 
+<br>
+
 ## 🛠️ My Skills
+<br>
 
 ### <picture> <img src = "https://img.icons8.com/?size=100&id=MSywwgB0nzMc&format=png&color=000000" width = 50px>  </picture> Main Programming languages
 
