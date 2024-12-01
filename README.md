@@ -86,6 +86,11 @@
   </tr>
 </table>
 
+## 📖 Stay Up to Date on My Projects
+I'm constantly improving and expanding my work! To stay updated on upcoming projects and planned releases, check out the Upcoming Projects section [here.](https://github.com/phantom0004/phantom0004/discussions/1)
+
+This discussion showcases upcoming projects with sneak peeks and detailed insights. Got suggestions? Feel free to share your thoughts in the comments—I’d love to hear them and will definitely take a look ❤️
+
 <br>
 
 ## 🌐 Connect with me
