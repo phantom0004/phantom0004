@@ -67,22 +67,22 @@
   <tr>
     <td><a href="https://github.com/phantom0004/morpheus_IOC_scanner"><img src="https://img.icons8.com/ios-filled/50/4a90e2/binoculars.png" alt="Malware and IOC Analyser"/></a></td>
     <td><b>Morpheus Scanner</b>- Performs file scanning to detect malware and gather IOC information.</td>
-    <td align="center">⭐ Highly Popular Project ⭐</td>
+    <td align="center">⭐ Highly Popular Project </td>
   </tr>
   <tr>
     <td><a href="https://github.com/phantom0004/_KRYPT0S_RANSOMWARE"><img src="https://img.icons8.com/ios-filled/50/4a90e2/lock.png" alt="Ransomware PoC"/></a></td>
     <td><b>Ransomware PoC</b> - Demonstrates ransomware encryption techniques.</td>
-    <td align="center">📈 Trending Project 📈</td>
+    <td align="center">📈 Trending Project </td>
   </tr>
   <tr>
     <td><a href="https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool"><img src="https://img.icons8.com/?size=100&id=59878&format=png&color=228BE6" style="width: 50px; height: 50px;"> </a></td>
     <td><b>FuzzFindr</b> - A directory fuzzer and web scraper.</td>
-    <td align="center">🚀 Somwhat Popular 🚀</td>
+    <td align="center">🚀 Somwhat Popular </td>
   </tr>
   <tr>
     <td><a href="https://github.com/phantom0004/PenTest_Vault"><img src="https://img.icons8.com/ios-filled/50/4a90e2/hacker.png" alt="Penetration Testing Tools"/></a></td>
     <td><b>PenTest Vault</b> - A collection of penetration testing tools.</td>
-    <td align="center">⬇️ Low Popularity ⬇️</td>
+    <td align="center">⬇️ Low Popularity </td>
   </tr>
 </table>
 
