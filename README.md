@@ -91,6 +91,11 @@ I'm constantly improving and expanding my work! To stay updated on upcoming proj
 
 This discussion showcases upcoming projects with sneak peeks and detailed insights. Got suggestions? Feel free to share your thoughts in the comments—I’d love to hear them and will definitely take a look ❤️
 
+## 📁 Explore My Discontinued Projects & Ideas
+Throughout my cybersecurity journey, I’ve explored a variety of projects—some polished, others left unfinished. While many haven’t made it to the front page of my GitHub profile, I believe they’re still worth sharing.
+
+We all have a backlog of ideas, some of which never see the light of day. To celebrate the iterative nature of growth and creativity, I’m making a selection of my discontinued projects public for anyone to explore. Whether you're looking for inspiration, insights, or just curious about what once was, you can check the repository [here](https://github.com/phantom0004/Cybersecurity-Holocron-Archives).
+
 <br>
 
 ## 🌐 Connect with me
