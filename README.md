@@ -53,17 +53,27 @@
 </p>
 
 ## 👨‍💻 About Me
-<br>
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 320px height = 220px></picture>
 
-- 🎓 Third-year BSc Cybersecurity student.
-- 🎯 Specializing in `Ethical Hacking` and `Offensive Security`.
-- 🛡️ Passionate about using cutting-edge techniques to secure systems.
-- 💻 Cybersecurity Developer, knowledgeable in mostly backend languages.
-- 📚 Constantly evolving and eager to learn.
-- 💼 Open to opportunities in offensive security and penetration testing.
+<picture>
+  <img 
+    align="right"
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="320"
+    height="220"
+  />
+</picture>
+
+Hello there! I’m currently a **third-year BSc Cybersecurity student** with a keen interest in **ethical hacking** and **offensive security**. Here’s a bit more about me:
+
+- 🎓 **Academics**: Pursuing a BSc in Cybersecurity.
+- 🎯 **Focus Areas**: Specializing in `Ethical Hacking` & `Offensive Security`.
+- 🛡️ **Passion**: Using cutting-edge techniques to secure and protect systems.
+- 💻 **Experience**: Cybersecurity Developer, mostly working with backend languages.
+- 📚 **Learning Mindset**: Always evolving, eager to pick up new skills.
+- 💼 **Opportunities**: Open to roles in **offensive security** and **penetration testing**.
 
 <br>
+
 
 ## ❤️ Support Me
 <br>
