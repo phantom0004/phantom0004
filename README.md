@@ -17,20 +17,40 @@
   <br>
   <img src="https://img.shields.io/github/followers/phantom0004?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/phantom0004?style=social" alt="GitHub Stars"/>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"/>
 </p>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📊 GitHub Profile Stats
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantom0004&show_icons=true&locale=en" alt="GitHub Stats" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom0004&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="450" height="200"/>
-</p>
-</p>
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<br>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=phantom0004&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+    height="200"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom0004&show_icons=true&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="200"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=phantom0004&theme=radical&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+    alt="Divider GIF" 
+  />
+</p>
 
 ## 👨‍💻 About Me
 <br>
@@ -98,20 +118,31 @@ We all have a backlog of ideas, some of which never see the light of day. To cel
 
 <br>
 
-## 🌐 Connect with me
-<br>
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/phantom0004">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/phantom0004" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/daryl-gatt-web3/">
-    <img src="https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/daryl-gatt-web3/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &emsp;
-  <a href="https://x.com/Infamous_0004">
-    <img src="https://img.icons8.com/ios-glyphs/30/1DA1F2/twitter.png" alt="Twitter (X)" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Infamous_0004" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Twitter%20%2F%20X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter / X"
+    />
   </a>
+  <br>
+  ⭐ Find me on any of these platforms! ⭐
 </p>
 
 <br>
@@ -131,10 +162,6 @@ We all have a backlog of ideas, some of which never see the light of day. To cel
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white" width=70px>
   </a>
   &emsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white" width=50px>
-  </a>
-  &emsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white" width=60px>
   </a>
@@ -144,15 +171,45 @@ We all have a backlog of ideas, some of which never see the light of day. To cel
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-%23F05033.svg?style=plastic&logo=pen-test&logoColor=white" width=95px></a>
+    <a href="#"><img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-%23F05033.svg?style=plastic&logo=pen-test&logoColor=white" width=95px height=20px></a>
   &emsp;
-    <a href="#"><img alt="Ethical Hacking" src="https://img.shields.io/badge/Ethical%20Hacking-%23181717.svg?style=plastic&logo=hacking&logoColor=white" width=90px></a>
+    <a href="#"><img alt="Ethical Hacking" src="https://img.shields.io/badge/Ethical%20Hacking-%23181717.svg?style=plastic&logo=hacking&logoColor=white" width=90px height=20px></a>
   &emsp;
-    <a href="#"><img alt="Networking" src="https://img.shields.io/badge/Networking-%2334A853.svg?style=plastic&logo=networking&logoColor=white" width=75px></a>
+    <a href="#"><img alt="Networking" src="https://img.shields.io/badge/Networking-%2334A853.svg?style=plastic&logo=networking&logoColor=white" width=75px height=20px></a>
   &emsp;
-    <a href="#"><img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability%20Assessment-000000?style=plastic&logo=vuln-assess&logoColor=white" width=110px></a>
+    <a href="#"><img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability%20Assessment-000000?style=plastic&logo=vuln-assess&logoColor=white" width=130px height=20px></a>
   &emsp;
-    <a href="#"><img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-%232E8B57.svg?style=plastic&logo=search&logoColor=white" width=85px></a>
+    <a href="#"><img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-%232E8B57.svg?style=plastic&logo=search&logoColor=white" width=85px height=20px></a>
+  &emsp;
+  <a href="#"><img alt="Threat Intelligence" src="https://img.shields.io/badge/Threat%20Intelligence-%2363B365.svg?style=plastic&logo=cybersecurity&logoColor=white" width=110px height=20px></a>
+  &emsp;
+  <a href="#"><img alt="Forensic Analysis" src="https://img.shields.io/badge/Forensic%20Analysis-%23404040.svg?style=plastic&logo=magnifying-glass&logoColor=white" width=115px height=20px></a>
+  &emsp;
+</p>
+
+### <picture> <img src="https://github.com/user-attachments/assets/f2e804f7-f261-4fa1-b42d-6b4e263b5dd8" width="50px"> </picture> Cybersecurity Skills
+
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Metasploit-2C5BB4?style=plastic&logo=metasploit&logoColor=white" alt="Metasploit"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Wireshark-007ACC?style=plastic&logo=wireshark&logoColor=white" alt="Wireshark"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ghidra-FF4500?style=plastic&logo=ghidra&logoColor=white" alt="Ghidra"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Nmap-4682B4?style=plastic&logo=nmap&logoColor=white" alt="Nmap"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=plastic&logo=burp-suite&logoColor=white" alt="Burp Suite"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/FTK_Imager-000000?style=plastic&logo=tool&logoColor=white" alt="FTK Imager"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/YARA-4B8BBE?style=plastic&logo=yara&logoColor=white" alt="YARA"></a>
+  &emsp;
+     <a href="#"><img src="https://img.shields.io/badge/CrackMapExec-FF8C00?style=plastic&logo=cracker&logoColor=white" alt="CrackMapExec"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Impacket-2E8B57?style=plastic&logo=impacket&logoColor=white" alt="Impacket"></a>
+  &emsp;
+  <i>And more ...</i>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -173,6 +230,7 @@ We all have a backlog of ideas, some of which never see the light of day. To cel
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
 </p>
+
 
 <br> 
 
