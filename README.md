@@ -114,6 +114,15 @@ Hello there! I’m currently a **third-year BSc Cybersecurity student** with a k
     <td><b>PenTest Vault</b> - A collection of penetration testing tools.</td>
     <td align="center">⬇️ Low Popularity </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://img.icons8.com/?size=100&id=50495&format=png&color=000000">
+        <img src="https://img.icons8.com/?size=100&id=50495&format=png&color=000000" alt="Oberon" width="50" height="50"/>
+      </a>
+    </td>
+    <td><b>Oberon Framework</b> - MORE INFORMATION SOON</td>
+    <td align="center"> - </td>
+  </tr>
 </table>
 
 ## 📖 Stay Up to Date on My Projects
