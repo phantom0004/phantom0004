@@ -57,8 +57,8 @@
 <picture>
   <img 
     align="right"
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    width="320"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNjZ3J4amIwaXZxcXg1YmoybHM0cG9hd2FoM2V5aGl4eWFhMzM4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"
+    width="300"
     height="220"
   />
 </picture>
