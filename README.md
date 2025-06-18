@@ -100,28 +100,30 @@ Hello there! I’m currently a **third-year BSc Cybersecurity student** with a k
     <td align="center">⭐ Highly Popular Project </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/phantom0004/_KRYPT0S_RANSOMWARE"><img src="https://img.icons8.com/ios-filled/50/4a90e2/lock.png" alt="Ransomware PoC"/></a></td>
-    <td><b>Ransomware PoC</b> - Demonstrates ransomware encryption techniques.</td>
-    <td align="center">📈 Trending Project </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool"><img src="https://img.icons8.com/?size=100&id=59878&format=png&color=228BE6" style="width: 50px; height: 50px;"> </a></td>
-    <td><b>FuzzFindr</b> - A directory fuzzer and web scraper.</td>
-    <td align="center">🚀 Somwhat Popular </td>
-  </tr>
+  <td>
+    <a href="https://github.com/phantom0004/oberon-framework">
+      <img src="https://img.icons8.com/?size=100&id=50495&format=png&color=000000" alt="Oberon" width="50" height="50"/>
+    </a>
+  </td>
+  <td>
+    <b>Oberon Framework</b> – Local-use PoC RAT for attacker simulation and engagement research.
+  </td>
+  <td align="center">⭐ Newly Listed</td>
+</tr>
   <tr>
     <td><a href="https://github.com/phantom0004/PenTest_Vault"><img src="https://img.icons8.com/ios-filled/50/4a90e2/hacker.png" alt="Penetration Testing Tools"/></a></td>
     <td><b>PenTest Vault</b> - A collection of penetration testing tools.</td>
     <td align="center">⬇️ Low Popularity </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://img.icons8.com/?size=100&id=50495&format=png&color=000000">
-        <img src="https://img.icons8.com/?size=100&id=50495&format=png&color=000000" alt="Oberon" width="50" height="50"/>
-      </a>
-    </td>
-    <td><b>Oberon Framework</b> - MORE INFORMATION SOON</td>
-    <td align="center"> - </td>
+    <td><a href="https://github.com/phantom0004/_KRYPT0S_RANSOMWARE"><img src="https://img.icons8.com/ios-filled/50/4a90e2/lock.png" alt="Ransomware PoC"/></a></td>
+    <td><b>KRYPTOS</b> - Demonstrates ransomware encryption techniques with a POC.</td>
+    <td align="center">❌ Discontinued </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool"><img src="https://img.icons8.com/?size=100&id=59878&format=png&color=228BE6" style="width: 50px; height: 50px;"> </a></td>
+    <td><b>FuzzFindr</b> - A directory fuzzer and web scraper.</td>
+    <td align="center">❌ Discontinued </td>
   </tr>
 </table>
 
