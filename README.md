@@ -34,7 +34,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom0004&show_icons=true&layout=compact&theme=radical" 
     alt="Top Languages" 
-    height="200"
+    width="355"
   />
 </p>
 
@@ -42,6 +42,7 @@
   <img 
     src="https://github-profile-trophy.vercel.app/?username=phantom0004&theme=radical&no-frame=true&row=1&column=6" 
     alt="GitHub Trophies" 
+    width="850"
   />
 </p>
 
