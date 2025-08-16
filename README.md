@@ -118,10 +118,14 @@ Always learning, always building — because in security, standing still is fall
   </tr>
 </table>
 
+<br>
+
 ## 📖 Stay Up to Date on My Projects
 I'm constantly improving and expanding my work! To stay updated on upcoming projects and planned releases, check out the Upcoming Projects section [here.](https://github.com/phantom0004/phantom0004/discussions/1)
 
 This discussion showcases upcoming projects with sneak peeks and detailed insights. Got suggestions? Feel free to share your thoughts in the comments—I’d love to hear them and will definitely take a look ❤️
+
+<br>
 
 ## 📁 Explore My Discontinued Projects & Ideas
 Throughout my cybersecurity journey, I’ve explored a variety of projects—some polished, others left unfinished. While many haven’t made it to the front page of my GitHub profile, I believe they’re still worth sharing.
@@ -130,41 +134,9 @@ We all have a backlog of ideas, some of which never see the light of day. To cel
 
 <br>
 
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/phantom0004" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/daryl-gatt-web3/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/Infamous_0004" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Twitter%20%2F%20X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter / X"
-    />
-  </a>
-  <br>
-  ⭐ Find me on any of these platforms! ⭐
-</p>
-
-<br>
-
 ---
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-**Pro Tip!** Don’t forget to check out the "Discussions" section in my projects. Stay up to date with my latest developer insights, and feel free to share your suggestions for future enhancements! Your feedback is always appreciated and helps make the project even better. 😊
 
 <p align="center">
   <img src = "https://camo.githubusercontent.com/bd8e8fa1d693c4aa8bc38ce3dda1e4957ee389cc0245f88c9ac18cab6d3d4463/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d666f6f746572" width = "2000"/>
