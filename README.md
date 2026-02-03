@@ -20,9 +20,7 @@
   />
 </picture>
 
-I’m infatuated with cybersecurity — it’s not just a career path, it’s what drives my curiosity every day. I hold a BSc in Cybersecurity and work as an Internal Red Team Engineer, specializing in ethical hacking and offensive security.
-
-I use this account to share and develop a variety of custom tools I’ve built, blending my passion for problem-solving with hands-on security research. My work focuses on pushing boundaries, simulating real-world attack scenarios, and helping organizations strengthen their defenses.
+I’m infatuated with cybersecurity, I use this account to share and develop a variety of custom tools I’ve built, blending my passion for problem-solving with hands-on security research. My work focuses on pushing boundaries, simulating real-world attack scenarios, and helping organizations strengthen their defenses.
 
 Always learning, always building — because in security, standing still is falling behind.
 
