@@ -1,19 +1,6 @@
+<h1 align="center">Greetings — Welcome to my Domain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a663516c56d54525c1e04f3e339e1494/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d686561646572" width="2000" />
-</p>
-
-<h1 align="center">Greetings, I'm Daryl Gatt — Welcome to my Domain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"> 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF0000&size=25&center=true&vCenter=true&width=750&height=100&lines=Red+Team+Engineer;Ethical+Hacker;Offensive+Security+Specialist;Open+Source+Security+Tool+Developer;Breaking+to+Protect;Adversary+Simulation+Expert;Always+Hunting+for+Vulnerabilities">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Maltese Flag" height="20px" width="30px" style="border: 1px solid #0047AB; border-radius: 5px; box-shadow: 0px 0px 5px #0047AB;"/>
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=phantom0004&label=Profile%20views&color=0047AB&style=plastic?" alt="phantom0004" height="25px" width="160px"/>
-  <a href="https://commits.top/malta.html" target="_blank"></a>
   <br>
   <img src="https://img.shields.io/github/followers/phantom0004?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/phantom0004?style=social" alt="GitHub Stars"/>
@@ -22,41 +9,10 @@
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 📊 GitHub Profile Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=phantom0004&show_icons=true&theme=radical" 
-    alt="GitHub Stats" 
-    height="200"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom0004&show_icons=true&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    width="355"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=phantom0004&theme=radical&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies" 
-    width="850"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
-    alt="Divider GIF" 
-  />
-</p>
-
 ## 👨‍💻 About Me
 
 <picture>
-  <img 
+  <img
     align="right"
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBqbnB6MnYwdmRwZWxubnk3MnJxZTlhN2o5dDY2bnpqZHFnazh2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"
     width="300"
@@ -138,7 +94,3 @@ We all have a backlog of ideas, some of which never see the light of day. To cel
 ---
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-<p align="center">
-  <img src = "https://camo.githubusercontent.com/bd8e8fa1d693c4aa8bc38ce3dda1e4957ee389cc0245f88c9ac18cab6d3d4463/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d666f6f746572" width = "2000"/>
-</p>
