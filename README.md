@@ -1,91 +1,242 @@
-<h1 align="center">Greetings — Welcome to my Domain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Daryl Gatt <code>phantom0004</code></h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantom0004&label=Profile%20views&color=0047AB&style=plastic?" alt="phantom0004" height="25px" width="160px"/>
-  <br>
-  <img src="https://img.shields.io/github/followers/phantom0004?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/phantom0004?style=social" alt="GitHub Stars"/>
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"/>
+  <strong>Red Team Engineer · Backend Developer · Security Researcher</strong>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<p align="center">
+  Building offensive-security tooling, threat-intelligence interfaces,
+  malware-analysis utilities, and research-driven software.
+</p>
 
-## 👨‍💻 About Me
-
-<picture>
+<p align="center">
+  <a href="https://github.com/phantom0004?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/phantom0004?label=Followers&style=flat-square&logo=github"
+      alt="GitHub followers"
+    />
+  </a>
+  <a href="https://github.com/phantom0004?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/phantom0004?affiliations=OWNER&style=flat-square&logo=github&label=Stars"
+      alt="GitHub stars"
+    />
+  </a>
   <img
-    align="right"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBqbnB6MnYwdmRwZWxubnk3MnJxZTlhN2o5dDY2bnpqZHFnazh2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"
-    width="300"
-    height="220"
+    src="https://img.shields.io/badge/Based_in-Malta-C8102E?style=flat-square"
+    alt="Based in Malta"
   />
-</picture>
-
-I’m infatuated with cybersecurity, I use this account to share and develop a variety of custom tools I’ve built, blending my passion for problem-solving with hands-on security research. My work focuses on pushing boundaries, simulating real-world attack scenarios, and helping organizations strengthen their defenses.
-
-Always learning, always building — because in security, standing still is falling behind.
-
-<br>
-
-## 🚀 Featured Projects
-<br>
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/phantom0004/morpheus_IOC_scanner"><img src="https://img.icons8.com/ios-filled/50/4a90e2/binoculars.png" alt="Malware and IOC Analyser"/></a></td>
-    <td><b>Morpheus Scanner</b>- Performs file scanning to detect malware and gather IOC information.</td>
-    <td align="center">🟢 Active Project </td>
-  </tr>
-  <tr>
-  <td>
-    <a href="https://github.com/phantom0004/oberon-framework">
-      <img src="https://img.icons8.com/?size=100&id=50495&format=png&color=000000" alt="Oberon" width="50" height="50"/>
-    </a>
-  </td>
-  <td>
-    <b>Oberon Framework</b> – Local-use PoC RAT for attacker simulation and engagement research.
-  </td>
-  <td align="center">⭐ Newly Listed</td>
-</tr>
-  <tr>
-    <td><a href="https://github.com/phantom0004/_KRYPT0S_RANSOMWARE"><img src="https://img.icons8.com/ios-filled/50/4a90e2/lock.png" alt="Ransomware PoC"/></a></td>
-    <td><b>KRYPTOS</b> - Demonstrates ransomware encryption techniques with a POC.</td>
-    <td align="center">❌ Discontinued </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool"><img src="https://img.icons8.com/?size=100&id=59878&format=png&color=228BE6" style="width: 50px; height: 50px;"> </a></td>
-    <td><b>FuzzFindr</b> - A directory fuzzer and web scraper.</td>
-    <td align="center">❌ Discontinued </td>
-  </tr>
-</table>
-
-<br>
-
-## 📁 Explore My Discontinued Projects & Ideas
-Throughout my cybersecurity journey, I’ve explored a variety of projects—some polished, others left unfinished. While many haven’t made it to the front page of my GitHub profile, I believe they’re still worth sharing.
-
-We all have a backlog of ideas, some of which never see the light of day. To celebrate the iterative nature of growth and creativity, I’m making a selection of my discontinued projects public for anyone to explore. Whether you're looking for inspiration, insights, or just curious about what once was, you can check the repository [here](https://github.com/phantom0004/Cybersecurity-Holocron-Archives).
-
-<br>
+</p>
 
 ---
 
-𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+## About
 
-<!--
-**phantom0004/phantom0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical security tooling for authorized testing, defensive research,
+threat analysis, and controlled adversary simulation.
 
-Here are some ideas to get you started:
+My current work focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Offensive-security automation and operator tooling
+- Threat-intelligence presentation and prioritization
+- IOC, malware, and YARA-based analysis
+- Python and TypeScript backend development
+- Cross-platform security-agent research
+
+## Current Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/phantom0004/cipherfeed">
+          CipherFeed
+        </a>
+      </h3>
+      <p>
+        A static threat-intelligence workspace demonstrating normalized
+        intelligence streams, analyst workflows, explainable prioritization,
+        executive briefings, and source-grounded AI concepts.
+      </p>
+      <p>
+        <code>React</code>
+        <code>JavaScript</code>
+        <code>Vite</code>
+        <code>Threat Intelligence</code>
+      </p>
+      <img
+        src="https://img.shields.io/badge/status-current-238636?style=flat-square"
+        alt="Current project"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Hephestus Agent (Coming Out Soon)</h3>
+      <p>
+        Private master's dissertation project focused on cross-platform
+        security-agent research across Windows, Linux, APIs, AI-assisted
+        workflows, and exploitation concepts.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Windows</code>
+        <code>Linux</code>
+        <code>API</code>
+      </p>
+      <img
+        src="https://img.shields.io/badge/status-private_research-8250DF?style=flat-square"
+        alt="Private research project"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/phantom0004/cipherfeed">
+    <img
+      src="https://github.com/user-attachments/assets/b8539996-c78f-47e9-9f65-0fbbebb253dc"
+      width="800"
+      alt="CipherFeed threat-intelligence interface"
+    />
+  </a>
+</p>
+
+## Selected Public Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/phantom0004/morpheus_IOC_scanner">
+          Morpheus IOC Scanner
+        </a>
+      </h3>
+      <p>
+        IOC and malware-analysis utility combining YARA detection, optional
+        VirusTotal analysis, file inspection, multithreaded scanning, and
+        report generation.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>YARA</code>
+        <code>VirusTotal</code>
+        <code>Malware Analysis</code>
+      </p>
+      <a href="https://github.com/phantom0004/morpheus_IOC_scanner">
+        <img
+          src="https://img.shields.io/github/stars/phantom0004/morpheus_IOC_scanner?style=flat-square&logo=github&label=Stars"
+          alt="Morpheus stars"
+        />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/phantom0004/PenTest_Vault">
+          PenTest Vault
+        </a>
+      </h3>
+      <p>
+        A collection of focused Python and C utilities created while
+        researching networking, scripting, ethical hacking, and security
+        automation.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>C</code>
+        <code>Networking</code>
+        <code>Security Tools</code>
+      </p>
+      <a href="https://github.com/phantom0004/PenTest_Vault">
+        <img
+          src="https://img.shields.io/github/stars/phantom0004/PenTest_Vault?style=flat-square&logo=github&label=Stars"
+          alt="PenTest Vault stars"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Technical Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/YARA-111827?style=flat-square" alt="YARA" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<details>
+  <summary><strong>Archived projects and earlier research</strong></summary>
+
+  <br />
+
+  <table>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Purpose</th>
+      <th align="center">Status</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/phantom0004/oberon-framework">
+          Oberon Framework
+        </a>
+      </td>
+      <td>
+        Modular offensive-security framework covering remote access,
+        persistence, post-exploitation, and controlled adversary simulation.
+      </td>
+      <td align="center">Archived</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/phantom0004/KRYPT0S-Ransomware_POC">
+          KRYPT0S
+        </a>
+      </td>
+      <td>
+        Sandboxed ransomware and destructive-malware simulation created for
+        defensive education and controlled research.
+      </td>
+      <td align="center">Archived</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/phantom0004/FuzzFindr-Web-Fuzzing-Tool">
+          FuzzFindr
+        </a>
+      </td>
+      <td>
+        Web content discovery and fuzzing utility using customizable
+        wordlists and structured output.
+      </td>
+      <td align="center">Archived</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/phantom0004/Cybersecurity-Holocron-Archives">
+          Cybersecurity Holocron Archives
+        </a>
+      </td>
+      <td>
+        Earlier experiments and discontinued concepts retained as a record
+        of technical progression.
+      </td>
+      <td align="center">Archive</td>
+    </tr>
+  </table>
+</details>
+
+---
+
+<p align="center">
+  <sub>
+    Offensive-security and malware-simulation projects are intended only for
+    authorized assessments, isolated labs, and defensive research.
+  </sub>
+</p>
