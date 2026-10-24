@@ -43,7 +43,7 @@ My current work focuses on:
 - Python and TypeScript backend development
 - Cross-platform security-agent research
 
-## Current Focus
+## Project Highlights
 
 <table>
   <tr>
@@ -70,7 +70,11 @@ My current work focuses on:
       />
     </td>
     <td width="50%" valign="top">
-      <h3>Hephestus Agent (Coming Out Soon)</h3>
+      <h3>
+        <a href="https://github.com/phantom0004/hephestus-redteam-agent">
+          Hephestus Agent
+        </a>
+      </h3>
       <p>
         Private master's dissertation project focused on cross-platform
         security-agent research across Windows, Linux, APIs, AI-assisted
@@ -84,23 +88,13 @@ My current work focuses on:
       </p>
       <img
         src="https://img.shields.io/badge/status-private_research-8250DF?style=flat-square"
-        alt="Private research project"
+        alt="Research project"
       />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/phantom0004/cipherfeed">
-    <img
-      src="https://github.com/user-attachments/assets/b8539996-c78f-47e9-9f65-0fbbebb253dc"
-      width="800"
-      alt="CipherFeed threat-intelligence interface"
-    />
-  </a>
-</p>
-
-## Selected Public Work
+## Other Public Work
 
 <table>
   <tr>
