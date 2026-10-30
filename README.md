@@ -1,4 +1,4 @@
-<h1 align="center">Daryl Gatt <code>phantom0004</code></h1>
+<h1 align="center">Hello, I am Daryl 👋 </h1>
 
 <p align="center">
   <strong>Red Team Engineer · Backend Developer · Security Researcher</strong>
