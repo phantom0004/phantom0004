@@ -72,7 +72,7 @@ My current work focuses on:
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/phantom0004/hephestus-redteam-agent">
-          Hephestus Agent
+          🌟Hephestus Agent (Version 2 Release)
         </a>
       </h3>
       <p>
